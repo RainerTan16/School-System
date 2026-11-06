@@ -34,7 +34,33 @@ Academic support
 Academic support chat bot
 <img width="956" height="430" alt="Screenshot 2026-11-06 085041" src="https://github.com/user-attachments/assets/26d70e3a-450d-4301-90b6-544d4a98a412" />
 
+Admin log in
+<img width="592" height="366" alt="Screenshot 2026-11-06 085316" src="https://github.com/user-attachments/assets/52c6b30a-0e42-4a7a-81d5-040d60ddbbf8" />
 
+User management
+<img width="1024" height="430" alt="Screenshot 2026-11-06 090153" src="https://github.com/user-attachments/assets/f6366ae6-8cc8-4a09-bd36-7535a2ed1017" />
 
+Class schedule
+<img width="1021" height="572" alt="Screenshot 2026-11-06 090237" src="https://github.com/user-attachments/assets/af964b57-a9cb-4fa9-8290-07fae9d4fe24" />
 
+Course enrolled
+<img width="1018" height="432" alt="Screenshot 2026-11-06 090308" src="https://github.com/user-attachments/assets/1e0081cc-ac36-4ca0-9df0-181a4082b21c" />
+
+Teacher log in
+<img width="594" height="362" alt="Screenshot 2026-11-06 091417" src="https://github.com/user-attachments/assets/f354acda-62fd-4304-8cc3-b8209c96aa76" />
+
+Teacher dashboard
+<img width="744" height="435" alt="Screenshot 2026-11-06 092007" src="https://github.com/user-attachments/assets/dfc20de2-c474-4791-8b58-123b67bf0ac6" />
+
+Profile
+<img width="747" height="436" alt="Screenshot 2026-11-06 092028" src="https://github.com/user-attachments/assets/8bb37963-24cd-4888-907f-e58bff8dc7fc" />
+
+Subject load
+<img width="941" height="566" alt="Screenshot 2026-11-06 092200" src="https://github.com/user-attachments/assets/db3c6070-f099-4ef5-aabc-7d8de6bb6a50" />
+
+Class list
+<img width="740" height="437" alt="Screenshot 2026-11-06 092219" src="https://github.com/user-attachments/assets/94ef92fe-40b2-4452-92b6-b3387e7c0893" />
+
+Grade
+<img width="744" height="433" alt="Screenshot 2026-11-06 092256" src="https://github.com/user-attachments/assets/6a4c4164-db81-4719-9366-e702ae588ea0" />
 
